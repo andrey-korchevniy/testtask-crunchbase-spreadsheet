@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  width: 200px;
+  font-size: 20px;
+}
+
+button {
+  width: 100%;
+  color: white;
+  margin-top: 20px;
+  border-width: 0px;
+  border-radius: 20px;
+  padding: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 20px;
+  background: linear-gradient(#0060ff, #22a565);
+}
+
+.crunchbase {
+  color: #0060ff;
+}
+
+.gspeadsheet {
+  color: #22a565;
+}
